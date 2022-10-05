@@ -10,6 +10,8 @@ let { series, watch, src, dest } = require('gulp'),
     gulpif = require('gulp-if'),
     wait = require('gulp-wait');
 
+
+// configurations
 let gulpConfig = require('./gulp.config'),
     srcs = gulpConfig.paths.srcs,
     dists = gulpConfig.paths.dists,
