@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-changed": "^4.0.3",
+    "gulp-if": "^3.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-plumber-notifier": "^0.1.0",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-wait": "^0.0.2",
+    "sass": "^1.43.4"
+  }
+}
