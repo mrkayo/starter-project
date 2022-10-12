@@ -61,6 +61,7 @@ function style() {
         .pipe(dest(dists.css))
         .pipe(browserSync.stream())
 }
+exports.style = style;
 
 exports.default = series (
     viewsAll,
